@@ -1,0 +1,9 @@
+Building PHP
+
+See doc/readme-qt.rst for instructions on building PHP QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PHP.
+
+See doc/build-*.txt for instructions on building phpd,
+the intended-for-services, no-graphical-interface, reference
+implementation of PHP.
